@@ -1,0 +1,10 @@
+HotDogs 25.000000 3
+Hamburguesas 40.000000 8
+CocaCola 15.000000 30
+Chocolates 8.000000 50
+Galletas 12.000000 10
+Dona 20.000000 4
+El 0.000000 0
+santo 0.000000 0
+grialGS 0.000000 0
+ElSantoGrial 0.000000 0

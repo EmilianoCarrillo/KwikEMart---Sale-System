@@ -14,5 +14,12 @@ Here, the user can buy any kind of items that the program displays in the invent
 The user can sell things to the store but the store has to have enough money on the earning text file to buy what the user is trying to sell. Once the purchase is made, the inventary gets updated.
 
 ***
+##CONFIGURATION
+``
+fopen("/Users/emilianocarrillo/Desktop/KwikEMart/Inventario.txt", "ab+");
+``
+On every fopen function you need to change the first parameter to be the direction of your file and the second one to be depending on your OS (For Windows: rw+, for MacOs: ab+)
+
+***
 
 This is a great program to get a reference on how to handle files in C (read and write), also a great practice for bigger projects.
